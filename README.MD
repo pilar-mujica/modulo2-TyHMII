@@ -1,7 +1,7 @@
 # MÓDULO 2
 ## Asistente de Redacción con IA para planes y proyectos - Taller complementario fotografía forense digital
 
-El módulo tiene cuatro informes, encadenados de a dos: el informe 1 dio la metodología con la que se hizo el 2, y el informe 3 dio el material que se evaluó en el 4.
+El módulo tiene cuatro informes, encadenados de a dos: el informe 1 dio la metodología con la que se hizo el 2, y el informe 3 dio el material que se evaluó en el 4. Cada informe se puede encontrar (junto a su formato .tex e imágenes) en las carpetas correspondientes.
 
 ## Cómo se hizo cada informe
 
